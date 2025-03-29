@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to write code fast and PSB
 -    and the program language i am learning are c++,c#,rust and asm 
 - 💞️ I’m looking to collaborate on mabey linux  
-- 📫 How to reach me you can reach me on emali at [Allt306@proton.me]
+- 📫 How to reach me' you can reach me on emali
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 
